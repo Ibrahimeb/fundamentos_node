@@ -1,0 +1,15 @@
+{
+  "name": "03-fundamentos_node",
+  "version": "0.0.1",
+  "description": "simple tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ibrahim estanga",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.5.1"
+  }
+}
